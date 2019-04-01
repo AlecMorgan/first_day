@@ -1,5 +1,6 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+Name:             Alec Morgan
+Email:            alec.morgan@flatironschool.com
+Favorite Place:   Home
+Favorite Food:    Pizza
+Astrology sign:   Virgo
+MBTI type:        INFJ
